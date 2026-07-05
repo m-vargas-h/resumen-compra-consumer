@@ -106,3 +106,4 @@ src/main/java/com/duoc/resumen_compra_consumer/
 └── repository/
     └── ResumenCompraRepository.java   # Acceso a datos (Spring Data JPA)
 ```
+
