@@ -65,6 +65,13 @@
 			<artifactId>ojdbc11</artifactId>
 			<version>23.5.0.24.07</version>
 		</dependency>
+
+		<!-- Temporal: solo para pruebas locales antes de Oracle Cloud -->
+		<dependency>
+			<groupId>com.h2database</groupId>
+			<artifactId>h2</artifactId>
+			<scope>runtime</scope>
+		</dependency>
 	</dependencies>
 
 	<build>
